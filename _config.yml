@@ -24,16 +24,15 @@ description: "Müziğin matematiği"
 # List of links in the navigation bar
 navbar-links:
   Hakkında: "about"
-  Etkinlik: "etkinlik"
+  Etkinlikler: "etkinlik"
   Akademik:
     - Eğitim: "egitim"
     - Görevler: "gorevler"
     - İdari: "idari"
     - Yayınlar: "yayinlar"
     - Tezler: "tezler"
-    - Toplantılar: "toplantılar"
+    - Toplantılar: "toplantilar"
     - Hakemlikler: "hakemlik"
-
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
