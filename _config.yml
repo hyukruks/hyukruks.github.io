@@ -23,10 +23,10 @@ description: "Müziğin matematiği"
 
 # List of links in the navigation bar
 navbar-links:
-  Hakkında: "about"
+  HAKKINDA: "about"
   Etkinlikler: "etkinlik"
   Akademik:
-    - Eğitim: "egitim"
+    - EĞİTİM: "egitim"
     - Görevler: "gorevler"
     - İdari: "idari"
     - Yayınlar: "yayinlar"
