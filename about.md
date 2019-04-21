@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doç.Dr. Hüseyin Yükrük
+title: Doç. Dr. Hüseyin Yükrük
 subtitle: Kişisel Websitesi
 ---
 
